@@ -1,5 +1,7 @@
 Hampton Roads PHP Framework
 =============================
+[![Build Status](https://travis-ci.org/hrphp/framework.png)](https://travis-ci.org/hrphp/framework)
+
 [Zend Framework](http://framework.zend.com/), [Symfony](http://symfony.com/), [CakePHP](http://cakephp.org/), and countless other web application frameworks are great contributions to the PHP community. The authors of those frameworks have a wealth of knowledge between them that is, in part, the by-product of their authorship.
 
 While it may make sense to use battle-tested code for your production applications, you gain a formidable amount of experience working through the problems inherent in building your own framework.
