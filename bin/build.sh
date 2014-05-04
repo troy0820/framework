@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
 
-set -o pipefail
-set -o errexit
-set -o nounset
-
 # set a variable for the current directory
 declare -r framework_dir="$(dirname $(cd "${0%/*}"; echo $(pwd)))"
 
